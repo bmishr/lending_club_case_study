@@ -32,11 +32,11 @@
 ## Conclusions
 - Driving Factors for Charge Offs: Key factors include the loan grade, large loan amount, installment amount, term, and DTI.
 - Users Likely to Default: These typically include 
--- Users having high experience, 
--- Users who have taken loans for small businesses, 
--- Employees with ‘F’ and ‘G’ grades, 
--- Users who have taken long-term loans
--- Users with high DTI.
+- Users having high experience, 
+- Users who have taken loans for small businesses, 
+- Employees with ‘F’ and ‘G’ grades, 
+- Users who have taken long-term loans
+- Users with high DTI.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
